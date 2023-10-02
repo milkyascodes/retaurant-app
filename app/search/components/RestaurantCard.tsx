@@ -1,5 +1,4 @@
 import Link from "next/link";
-
 export default function RestaurantCard() {
   return (
     <div className="border-b flex pb-5">

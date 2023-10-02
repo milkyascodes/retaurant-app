@@ -1,6 +1,6 @@
 export default function SideBarSearch() {
   return (
-    <div className="w-1/5">
+    <div className="w-1/2">
       <div className="border-b pb-4">
         <h1 className="mb-2">Region</h1>
         <p className="font-light text-reg">Toronto</p>
